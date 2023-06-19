@@ -27,6 +27,12 @@
 
 // console.log(email); // null
 
+// output ques
+
+// let score=50
+// let to=score==50
+// console.log(to) ??
+
 
 // Decision making
 
